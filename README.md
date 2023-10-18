@@ -1,6 +1,6 @@
 # The Coffee Machine App in Object-Oriented Programming (OOP) 
 
-<img src="/coffee-machine-image.gif" width="40%" height="40%"></img>
+<img src="/oop-coffee-machine/images/coffee-machine-image.gif" width="40%" height="40%"></img>
 <br>
 Credits: <a href="https://dribbble.com/shots/4477752-Coffee-Machine">Dribble.com </a> - by <a href="https://dribbble.com/sarvesh-harmalkar">Sarvesh</a>
 <hr>
@@ -44,6 +44,6 @@ What are you waiting for?! Enjoy your drink! ☕️😎
 
 You can also run the code to play with it on Replit. <br>
 
-<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1"><img src="/coffee-machine-app-replit.png" width="80%" height="80%"></a>
+<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1"><img src="/oop-coffee-machine/images/coffee-machine-app-replit.png" width="80%" height="80%"></a>
 <br>
 <a href="https://replit.com/@saverionegro/coffee-machine-app?v=1">The Coffee Machine App Replit</a>
