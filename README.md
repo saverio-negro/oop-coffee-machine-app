@@ -1,1 +1,1 @@
-# oop-coffee-machine-app
+# The Coffee Machine App in Object-Oriented Programming (OOP) 
