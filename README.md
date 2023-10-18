@@ -1,1 +1,49 @@
 # The Coffee Machine App in Object-Oriented Programming (OOP) 
+
+<img src="/coffee-machine-image.gif" width="40%" height="40%"></img>
+<br>
+Credits: <a href="https://dribbble.com/shots/4477752-Coffee-Machine">Dribble.com </a> - by <a href="https://dribbble.com/sarvesh-harmalkar">Sarvesh</a>
+<hr>
+
+<p>
+  Are you a coffee lover? The kind of person who can't kick-start the day without having loaded up their coffee machine? Then, that's the app you were looking for! ☕️👨🏻‍💻
+</p>
+
+<p>
+The Coffee Machine app is quite a simple application. You can choose out of 3 different hot flavors:<br>
+  
+  - espresso<br>
+  - latte<br>
+  - cappuccino
+
+Each drink requires a predetermined amount of ingredients to be prepared by the machine.
+You can get a report of the current resources of the coffee machine by typing "report," and you can turn the machine off for maintenance by typing "off."
+
+What are you waiting for?! Enjoy your drink! ☕️😎
+</p>
+
+<p>
+  This Coffee Machine App in OOP differentiates from the other version in my repository; in fact, the other Coffee Machine App is written by using Procedural Programming and not Object-Oriented Programming.
+</p>
+
+<p>
+  The Coffee Machine App is written in Python and you can launch it either from any local IDE which is able to compile Python source code, or any other Python code editors/compilers from the web which enables you to edit and run the code.
+</p>
+
+<hr>
+
+## Some Online Python Editors / Compilers
+
+<a href="https://replit.com/new/python3">Replit</a><br>
+<a href="https://www.w3schools.com/python/trypython.asp?filename=demo_compiler">W3Schools</a><br>
+<a href="https://www.programiz.com/python-programming/online-compiler">Programiz</a>
+
+<hr>
+
+## The Coffee Machine App on Replit
+
+You can also run the code to play with it on Replit. <br>
+
+<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1"><img src="/coffee-machine-app-replit.png" width="80%" height="80%"></a>
+<br>
+<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1">The Coffee Machine App Replit</a>
